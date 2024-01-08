@@ -58,3 +58,11 @@
 ### Example of GenAI on input text data
 
 <img src="images/gendemo3.png">
+
+
+## Power of Generative AI comes from use of Transfarmers -- which is being used in NLP
+
+<img src="images/trans1.png">
+
+
+
