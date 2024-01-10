@@ -7,7 +7,7 @@
   <li> Can process labeled and unlabeled data  </li>
   <li> This learning of labeled and unlabeled data is know as semi-supervised learning </li>
   <li> In semi-supervised learning ANN is trained in small amount of labeled and large amount of unlabeled data  </li>
-  <li> Inshort unlabeled data help AI to generalize things to under </li>
+  <li> Inshort unlabeled data help AI to generalize things </li>
 </ol>
 
 ## Finally Generative AI 
