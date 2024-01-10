@@ -64,5 +64,20 @@
 
 <img src="images/trans1.png">
 
+## Associated Model type in GENAI
 
+### Text-to-Text
 
+<img src="images/t2t.png">
+
+### Text-to-Image
+
+<img src="images/t2img.png">
+
+### Text-to-Video-3Dmodel
+
+<img src="images/t2v.png">
+
+### Text-to-Task
+
+<img src="images/t2task.png">
