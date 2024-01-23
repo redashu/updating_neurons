@@ -1,0 +1,33 @@
+/* using class based CSS */
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    background-color: whitesmoke;
+}
+.color-title {
+    font-weight: normal;
+}
+/* changing image pixels */
+img {
+    width: 200px;
+    height: 200px;
+}
+
+/* change color title */
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#orange {
+    color: orange;
+}
+#green {
+    color: green;
+}
+#yellow {
+    color: yellow;
+}
