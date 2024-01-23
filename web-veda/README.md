@@ -2,4 +2,4 @@
 
 ### font-size Understanding 
 
-<img src="doc-images/fonts.png">
+<img src="doc-images/font-size.png">
