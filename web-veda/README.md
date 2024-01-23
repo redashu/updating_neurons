@@ -1,3 +1,5 @@
 ## Hello world
 
-### font-size 
+### font-size Understanding 
+
+<img src="doc-images/fonts.png">
