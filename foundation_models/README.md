@@ -67,7 +67,7 @@ Fine-tuning is the process of taking a pre-trained model and making slight adjus
    - As we understand these LLM's are based particular type of ANN 
    - ANN are having layers  [Initial--deep-last]
    - In fine tuning we don't have to adjust parameters of Initial layers 
-   - Only adjust tuning parameters **{weights and parameters}** of deep layers 
+   - Only adjust tuning parameters **{weights and biases}** of deep layers 
 
 ## Key Steps in Fine-Tuning
 
