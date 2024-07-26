@@ -2,6 +2,12 @@
 
 A foundation model is a pre-trained model on a large and diverse dataset that can be adapted or fine-tuned for a wide range of specific tasks. These models are designed to provide a robust starting point for numerous applications by capturing broad and generalizable patterns from their extensive training.
 
+## We can reuse foundation models to train and customized for our personal tasks 
+
+<img src="images/model1.png">
+
+
+
 ## Key Characteristics of Foundation Models
 
 1. **Large-Scale Pre-Training:**
@@ -54,6 +60,14 @@ Foundation models represent a significant step forward in machine learning, prov
 # Fine-Tuning
 
 Fine-tuning is the process of taking a pre-trained model and making slight adjustments to it using a smaller, task-specific dataset. This allows the model to adapt its learned features to perform well on a particular task or domain without having to train from scratch, which is resource-intensive and time-consuming.
+
+## Points to understand in fine tuning 
+
+ **Adjusting model parameters** 
+   - As we understand these LLM's are based particular type of ANN 
+   - ANN are having layers  [Initial--deep-last]
+   - In fine tuning we don't have to adjust parameters of Initial layers 
+   - Only adjust tuning parameters **{weights and parameters}** of deep layers 
 
 ## Key Steps in Fine-Tuning
 
