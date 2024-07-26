@@ -8,5 +8,5 @@ A foundation model is a pre-trained model on a large and diverse dataset that ca
 
 ### Using Foundation Model 
 
-<img src="../images/use1.png">
+<img src="../images/use2.png">
 
