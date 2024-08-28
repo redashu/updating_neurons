@@ -1,5 +1,8 @@
 # Prompt Engineering
 
+## Visual look 
+
+<img src="images/demo1.png">
 Prompt engineering is the process of designing and refining inputs (prompts) given to language models, like GPT, to generate desired outputs effectively and accurately. It involves understanding the capabilities and limitations of the model and crafting prompts that guide the model to produce the most relevant and useful responses.
 
 ## Key Concepts in Prompt Engineering
