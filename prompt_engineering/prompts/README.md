@@ -48,4 +48,4 @@ A prompt can be understood in terms of its basic **structure** and **parameters*
 ## checklist of writing a prompt 
 
 <img src="../images/check1.png">
-<img src="../images/check2.png">
+<img src="../images/check2new.png">
