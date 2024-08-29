@@ -49,3 +49,8 @@ A prompt can be understood in terms of its basic **structure** and **parameters*
 
 <img src="../images/check1.png">
 <img src="../images/check2new.png">
+
+## Understanding prompt patterns 
+
+<img src="../images/pattern1.png">
+<img src="../images/pattern2.png">
