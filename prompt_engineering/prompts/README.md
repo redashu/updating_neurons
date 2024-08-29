@@ -4,6 +4,10 @@
 
 <img src="../images/prompt1.png">
 
+### Components of prompts 
+
+<img src="../images/promcompo.png">
+
 ### A more Realistic approach 
 
 # Prompt Structure and Parameters
@@ -41,3 +45,7 @@ A prompt can be understood in terms of its basic **structure** and **parameters*
 - **Parameters**: Length + Tone + Format + Examples + Constraints
 
 
+## checklist of writing a prompt 
+
+<img src="../images/check1.png">
+<img src="../images/check2.png">
