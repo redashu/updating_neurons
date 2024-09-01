@@ -38,7 +38,8 @@ Analyzing the dataset, you may identify the following trends:
 - **Review Trends**: Products with a higher number of reviews generally have higher sales volumes, regardless of their price. For example, the **4K Smart TV** and **Coffee Maker** have a large number of reviews, indicating a strong customer base and potentially better sales performance.
 - **Rating Trends**: Higher average ratings are associated with better sales performance. Products like the **Bluetooth Headphones** with an average rating of 4.7 perform well, suggesting that positive ratings contribute to higher sales.
 
----
+
+
 
 ### **Prompt 2: Customer Feedback Impact**
 
