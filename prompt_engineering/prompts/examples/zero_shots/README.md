@@ -42,7 +42,6 @@ Analyzing the dataset, you may identify the following trends:
 
 ### **Prompt 2: Customer Feedback Impact**
 
-```markdown
 **Prompt:**
 "Determine how customer feedback (reviews and ratings) influences the sales of products on Amazon based on the provided dataset. Assess the relationship between the number of reviews, average rating, and sales performance."
 
@@ -52,11 +51,10 @@ From the dataset, it can be observed that:
 - **Average Ratings**: Products with higher average ratings, such as the **Bluetooth Headphones**, generally experience better sales. High ratings reflect customer satisfaction, which likely drives more purchases.
 - **Feedback Influence**: Positive feedback correlates with increased sales. Products like the **Office Chair** with a high average rating (4.6) and a substantial number of reviews (450) demonstrate that favorable customer feedback plays a crucial role in boosting sales.
 
----
 
 ### **Prompt 3: Evaluating Competitive Pricing Strategies**
 
-```markdown
+
 **Prompt:**
 "Evaluate how competitive pricing affects the sales of products on Amazon's online marketplace using the dataset. Consider how the pricing of each product relative to its competitors influences its sales performance."
 
