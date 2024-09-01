@@ -10,6 +10,8 @@ Analyze the key factors influencing the sales performance of products on Amazon'
 
 ## Analysis of Key Factors Influencing Sales Performance
 
+## Dataset 
+[click_to_view](https://raw.githubusercontent.com/redashu/Datasets/master/amazon_online_sales.csv)
 
 ### Insights
 
