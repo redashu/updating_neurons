@@ -53,4 +53,9 @@ A prompt can be understood in terms of its basic **structure** and **parameters*
 ## Understanding prompt patterns 
 
 <img src="../images/pattern1.png">
-<img src="../images/pattern2.png">
+<img src="../images/pattern22.jpeg">
+
+## Common Prompting errors
+
+<img src="../images/error1.png">
+
