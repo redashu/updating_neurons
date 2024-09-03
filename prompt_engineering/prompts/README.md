@@ -26,6 +26,10 @@ A prompt can be understood in terms of its basic **structure** and **parameters*
 - **Examples**: Provides sample outputs to guide the model (optional but useful for clarity).
 - **Constraints**: Includes any specific limitations or requirements (e.g., "avoid technical jargon").
 
+## Example of tone 
+
+<img src="../images/tone.png">
+
 ## Example Breakdown
 
 ### Structure
