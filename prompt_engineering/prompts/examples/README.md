@@ -27,3 +27,11 @@ Not required.
 None.
 
 
+## Anchor prompt 
+
+```
+Anchored Prompt:
+"Write a short story in the style of a classic fairy tale. For example, like 'Cinderella,' include a kind-hearted protagonist who overcomes adversity with the help of a magical being."
+
+```
+
