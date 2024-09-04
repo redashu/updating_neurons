@@ -35,3 +35,6 @@ Anchored Prompt:
 
 ```
 
+# Text Generation examples 
+
+
